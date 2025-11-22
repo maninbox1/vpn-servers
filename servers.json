@@ -6,16 +6,8 @@
       "latency": 15,
       "ip": "67.217.241.220",
       "flag": "🇺🇸",
-      "availableProtocols": ["wireGuard"],
-      "selectedProtocol": "wireGuard",
-      "wireGuardConfig": {
-        "privateKey": "kEy2urr4+9nsHXN/1XUbsK402laK9JHlv2w2hbz44lg=",
-        "address": "10.13.13.2/32",
-        "dns": "10.13.13.1",
-        "serverPublicKey": "tJRhmD3szAuqwK2rVaMHjbCZaFGs1LuI2cu01r8R3E8=",
-        "presharedKey": "PNm6VLGydS+ztWCanB7SZpowGulNcC9pg3mdMlxMQaQ=",
-        "endpoint": "67.217.241.220:51820"
-      }
+      "availableProtocols": ["ikev2", "wireGuard"],
+      "selectedProtocol": "ikev2"
     },
     {
       "country": "Germany",
