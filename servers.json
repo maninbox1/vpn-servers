@@ -1,0 +1,22 @@
+[
+  {
+    "country": "United States",
+    "code": "US",
+    "city": "Philadelphia",
+    "latency": 24,
+    "ip": "67.217.241.220",
+    "flag": "🇺🇸",
+    "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
+    "selectedProtocol": "openVPN"
+  },
+  {
+    "country": "Germany",
+    "code": "DE",
+    "city": "Frankfurt",
+    "latency": 18,
+    "ip": "vpn-de-fra.yourdomain.com",
+    "flag": "🇩🇪",
+    "availableProtocols": ["openVPN", "wireGuard"],
+    "selectedProtocol": "openVPN"
+  }
+]
