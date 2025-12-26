@@ -6,8 +6,8 @@
       "latency": 15,
       "ip": "67.217.241.220",
       "flag": "🇺🇸",
-      "availableProtocols": ["ikev2"],
-      "selectedProtocol": "ikev2"
+      "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
+      "selectedProtocol": "openVPN"
     },
     {
       "country": "Germany",
