@@ -7,16 +7,13 @@
       "ip": "67.217.241.220",
       "flag": "🇺🇸"
     },
-    {
-      "country": "Belarus - under development",
-      "code": "BY",
-      "city": "Minsk",
-      "latency": 27,
-      "ip": "37.182.234.119",
-      "flag": "🇧🇾",
-      "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
-      "selectedProtocol": "ikev2"
-    },
+    "country": "Belarus",
+    "code": "BY",
+    "city": "Minsk",
+    "latency": 25,
+    "ip": "193.47.42.199",
+    "flag": "🇧🇾"
+  },
     {
       "country": "Russia - under development",
       "code": "RU",
