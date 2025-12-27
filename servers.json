@@ -10,6 +10,26 @@
       "selectedProtocol": "ikev2"
     },
     {
+      "country": "Belarus - under development",
+      "code": "BY",
+      "city": "Minsk",
+      "latency": 27,
+      "ip": "37.182.234.119",
+      "flag": "🇧🇾",
+      "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
+      "selectedProtocol": "ikev2"
+    },
+    {
+      "country": "Russia - under development",
+      "code": "RU",
+      "city": "Moscow",
+      "latency": 33,
+      "ip": "162.115.173.201",
+      "flag": "🇷🇺",
+      "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
+      "selectedProtocol": "ikev2"
+    },
+    {
       "country": "Germany",
       "code": "DE",
       "city": "Frankfurt",
