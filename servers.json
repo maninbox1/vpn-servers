@@ -5,9 +5,7 @@
       "city": "Philadelphia",
       "latency": 15,
       "ip": "67.217.241.220",
-      "flag": "🇺🇸",
-      "availableProtocols": ["wireGuard", "ikev2"],
-      "selectedProtocol": "ikev2"
+      "flag": "🇺🇸"
     },
     {
       "country": "Belarus - under development",
