@@ -8,6 +8,14 @@
       "flag": "🇺🇸"
     },
     {
+    "country": "Belarus",
+    "code": "BY",
+    "city": "Minsk",
+    "latency": 25,
+    "ip": "YOUR_SERVER_IP",
+    "flag": "🇧🇾"
+  },
+    {
       "country": "Russia - under development",
       "code": "RU",
       "city": "Moscow",
