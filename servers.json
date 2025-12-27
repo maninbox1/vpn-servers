@@ -8,7 +8,7 @@
       "flag": "🇺🇸"
     },
     {
-      "country": "Belarus - under development",
+      "country": "Belarus",
       "code": "BY",
       "city": "Minsk",
       "latency": 27,
@@ -18,7 +18,7 @@
       "selectedProtocol": "ikev2"
     },
     {
-      "country": "Russia - under development",
+      "country": "Russia",
       "code": "RU",
       "city": "Moscow",
       "latency": 33,
