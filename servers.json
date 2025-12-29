@@ -24,23 +24,6 @@
       "flag": "🇷🇺",
       "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
       "selectedProtocol": "ikev2"
-    },
-    {
-      "country": "Germany",
-      "code": "DE",
-      "city": "Frankfurt",
-      "latency": 18,
-      "flag": "🇩🇪",
-      "ip": "your-second-server-ip",
-      "availableProtocols": ["wireGuard", "ikev2"],
-      "selectedProtocol": "wireGuard",
-      "wireGuardConfig": {
-        "privateKey": "client-private-key-here",
-        "address": "10.13.13.3/32",
-        "dns": "10.13.13.1",
-        "serverPublicKey": "server-public-key-here",
-        "presharedKey": "preshared-key-here",
-        "endpoint": "your-server-ip:51820"
-      }
+    }
     }
   ]
