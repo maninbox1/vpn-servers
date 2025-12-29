@@ -25,5 +25,4 @@
       "availableProtocols": ["openVPN", "wireGuard", "ikev2"],
       "selectedProtocol": "ikev2"
     }
-    }
   ]
